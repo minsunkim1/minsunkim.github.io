@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "AWEEKJ"
+name:               "MIN SUN"
 
 twitter:
   username:         "__modo_"
@@ -12,14 +12,14 @@ twitter:
 #    publisher:      1234
 
 author:
-  name:             Hanju Jo
+  name:             KIM MIN SUN
   facebook:
   twitter:          __modo_
-  github:           AWEEKJ
-  linkedin:         aweekj
+  github:           minsunkim2
+  linkedin:         
   medium:
   tumblr:
-  email:            gkswn121@gmail.com
+  email:            star1132@nate.com
 
 # Google-analytics
 google-analytics:
@@ -30,7 +30,7 @@ disqus:
   id:                "aweekj"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://minsunkim2.github.io" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
